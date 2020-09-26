@@ -9,8 +9,10 @@ greater=list(filter(num_greater_5,num))
 print(greater)"""
 
  # to print even number in given list
+"""
 lst=[2,4,5,6,8]
 def even(lst):
     return lst%2==0
 number=list(filter(even,lst))
-print(number)
+print(number)"""
+
