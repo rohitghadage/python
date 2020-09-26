@@ -8,6 +8,8 @@ print(x)"""
 
 # without lambda
 
+
+
 num=[1,2,3,4]
 square=list(map(lambda a:a*a,num))
 print(square)
